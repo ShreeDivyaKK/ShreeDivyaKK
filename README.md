@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShreeDivyaKK
+- 👋 Hi, I’m Divyashree K K
 - 👀 I’m interested in Web and Mobile Automation Testing
 - 💻 I’m currently working on Selenium, Playwright and Rest Assured automation.
 - 📚 I’m currently learning Python.
